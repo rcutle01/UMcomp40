@@ -1,0 +1,8 @@
+arith.um
+goto.um
+input.um
+load_prog.um
+memory.um
+halt.um
+move.um
+output.um
